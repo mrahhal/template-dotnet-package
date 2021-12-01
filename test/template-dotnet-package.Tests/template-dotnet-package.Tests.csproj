@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\template-dotnet-package\template-dotnet-package.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--  -->
+  </ItemGroup>
+
+</Project>

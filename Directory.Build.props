@@ -1,0 +1,22 @@
+﻿<Project>
+
+  <PropertyGroup>
+    <Product>template-dotnet-package</Product>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <RepositoryUrl>https://github.com/mrahhal/template-dotnet-package</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Mohammad Rahhal</Authors>
+    <PackageProjectUrl>https://github.com/mrahhal/template-dotnet-package</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- <EntityFrameworkCoreVersion>6.0.0</EntityFrameworkCoreVersion> -->
+  </PropertyGroup>
+
+</Project>
