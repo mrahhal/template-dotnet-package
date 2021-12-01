@@ -17,6 +17,6 @@ A template for a dotnet package.
 - Update LICENSE.txt
 - Replace "Mohammad Rahhal"
 
-## Using this template
+## Used by
 
 - https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination
