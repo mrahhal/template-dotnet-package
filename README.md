@@ -13,9 +13,16 @@ A template for a dotnet package.
 
 ## Checklist
 
+You can use the prepare.ps1 script to bulk rename/replace "template-dotnet-package" to the repo folder name:
+
+```
+./prepare
+```
+
+Manual checklist:
 - Replace "template-dotnet-package" in file and file names with your repo name
 - Update LICENSE.txt
-- Replace "Mohammad Rahhal"
+- Replace "Mohammad Rahhal" 
 
 ## Used by
 
