@@ -27,3 +27,4 @@ Manual checklist:
 ## Used by
 
 - https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination
+- https://github.com/mrahhal/MR.AspNetCore.Pagination
