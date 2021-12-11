@@ -9,8 +9,8 @@ A template for a dotnet package.
 ## Features
 
 - .NET 6 + C# 10 + NRT (nullable reference types) + ImplicitUsings
-- GitHub action to build and test in CI
-- SourceLink to pack and publish a symbol package
+- SourceLink to pack pdb symbol packages
+- GitHub CI action to build and test
 
 ## Checklist
 
