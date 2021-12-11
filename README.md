@@ -10,6 +10,7 @@ A template for a dotnet package.
 
 - .NET 6 + C# 10 + NRT (nullable reference types) + ImplicitUsings
 - GitHub action to build and test in CI
+- SourceLink to pack and publish a symbol package
 
 ## Checklist
 
