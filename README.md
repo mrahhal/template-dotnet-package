@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/mrahhal/template-dotnet-package/actions/workflows/ci.yml/badge.svg)](https://github.com/mrahhal/template-dotnet-package/actions/workflows/ci.yml)
 [![NuGet version](https://badge.fury.io/nu/template-dotnet-package.svg)](https://www.nuget.org/packages/template-dotnet-package)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
 
 A template for a dotnet package.
 
