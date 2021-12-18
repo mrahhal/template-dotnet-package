@@ -6,6 +6,8 @@
 
 A template for a dotnet package.
 
+This is for my own use, but feel free to use it if it helps you. The CI workflow uses a shared workflow of mine from another repo, it might change without notice.
+
 ## Features
 
 - .NET 6 + C# 10 + NRT (nullable reference types) + ImplicitUsings
@@ -24,6 +26,7 @@ Manual checklist:
 - Replace "template-dotnet-package" in file and file names with your repo name
 - Update LICENSE.txt
 - Replace "Mohammad Rahhal"
+- Add NUGET_ORG_API_KEY GitHub secret for CI
 
 ## Used by
 
