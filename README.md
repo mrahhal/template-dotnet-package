@@ -23,7 +23,7 @@ You can use the prepare.ps1 script to bulk rename/replace "template-dotnet-packa
 Manual checklist:
 - Replace "template-dotnet-package" in file and file names with your repo name
 - Update LICENSE.txt
-- Replace "Mohammad Rahhal" 
+- Replace "Mohammad Rahhal"
 
 ## Used by
 
