@@ -26,7 +26,7 @@ Manual checklist:
 - Replace "template-dotnet-package" in file and file names with your repo name
 - Update LICENSE.txt
 - Replace "Mohammad Rahhal"
-- Add NUGET_ORG_API_KEY GitHub secret for CI
+- Add `NUGET_TOKEN` GitHub secret for CI (can be created from [here](https://www.nuget.org/account/apikeys))
 
 ## Used by
 
