@@ -8,8 +8,7 @@
     <PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
 
-    <TargetFramework>net6.0</TargetFramework>
-    <LangVersion>10.0</LangVersion>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
