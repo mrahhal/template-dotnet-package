@@ -10,7 +10,7 @@ This is for my own use, but feel free to use it if it helps you. The CI workflow
 
 ## Features
 
-- .NET 6 + C# 10 + NRT (nullable reference types) + ImplicitUsings
+- .NET 7 + C# 11 + NRT (nullable reference types) + ImplicitUsings
 - SourceLink to pack pdb symbol packages
 - GitHub CI action to build, test, and release
 
